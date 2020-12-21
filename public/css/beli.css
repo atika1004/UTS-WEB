@@ -1,0 +1,20 @@
+body{
+    background-color: #f6f5f5;
+    margin:0px;
+    padding: 0px;
+}
+section{
+    width:100%;
+    height: 100vh;
+    background-image: url('http://www.kopitanggamus.com/wp-content/uploads/2017/07/cropped-bg_kopi_tanggamus_lampung-1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.gambar {
+    width: 300px;
+}
+
+.table > tbody > tr > * {
+    vertical-align: middle;
+}
